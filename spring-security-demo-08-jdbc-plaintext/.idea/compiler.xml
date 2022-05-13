@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-demo" />
+        <module name="spring-security-demo-04-user-roles" />
+        <module name="spring-security-demo-02-basic-security" />
+        <module name="spring-security-demo-08-jdbc-plaintext" />
+        <module name="spring-security-demo-05-restrict-access" />
+        <module name="spring-security-demo-03-custom-login-form" />
+        <module name="spring-security-demo-07-display-content" />
+        <module name="spring-security-demo-06-restrict-access-denied-exception" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
